@@ -1,0 +1,19 @@
+.button {
+    border: none;
+    border-radius: 5px;
+    padding: 6px 12px;
+}
+
+.button-primary {
+    background: cornflowerblue;
+}
+.button-info {
+    background: dodgerblue;
+}
+.button-danger {
+    background: red;
+    color: white;
+}
+.button-warning {
+    background: darkorange;
+}
